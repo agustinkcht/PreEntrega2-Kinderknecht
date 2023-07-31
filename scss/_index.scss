@@ -1,0 +1,30 @@
+body {
+    background-color: $clr-1;
+}
+
+.canvasTix {
+    img {
+        width: 100vw;
+    }
+}
+
+#canvas-section {
+    text-align: center;
+    h1 {
+        color: $clr-2;
+        padding-left: 10px;
+        position: relative;
+        bottom: 150px;
+    }
+    .btn-primary {   
+        position: relative;
+        bottom: 144px;
+        width: 200px;
+        height: 40px;
+        text-align: center; 
+    }
+}
+
+
+
+

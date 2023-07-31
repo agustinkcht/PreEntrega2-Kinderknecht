@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+.canvasTix img {
+  width: 100vw;
+}
+
+#canvas-section {
+  text-align: center;
+}
+#canvas-section h1 {
+  color: rgba(255, 255, 255, 0.849);
+  padding-left: 10px;
+  position: relative;
+  bottom: 150px;
+}
+#canvas-section .btn-primary {
+  position: relative;
+  bottom: 144px;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+.canvasBuy img {
+  width: 100vw;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
